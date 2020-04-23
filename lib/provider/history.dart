@@ -94,5 +94,5 @@ class HistoryState extends ChangeNotifier {
 
   int get complatedCount => _complatedHistory?.length ?? 0;
 
-  int get remainingCount => selectedCologne?.targetCleaningCount ?? 0 - complatedCount;
+  int get remainingCount => (selectedCologne?.targetCleaningCount ?? 0) - complatedCount;
 }
