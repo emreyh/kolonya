@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "62213796911",
+    "firebase_url": "https://kolonya-4765e.firebaseio.com",
+    "project_id": "kolonya-4765e",
+    "storage_bucket": "kolonya-4765e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62213796911:android:4b81401480fc1fced082da",
+        "android_client_info": {
+          "package_name": "com.emreyh.kolonya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62213796911-nrp1avrrocjtrj49op7u8llfl1l0mpac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv0ld5zcKq2dt0ra1t2c8AvpnQV2xhs9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62213796911-nrp1avrrocjtrj49op7u8llfl1l0mpac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
