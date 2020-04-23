@@ -22,7 +22,7 @@ class _AboutState extends State<About> {
   }
 
   void gitHub() async {
-    const url = 'https://github.com/emreyh/';
+    const url = 'https://github.com/emreyh/kolonya';
     if (await canLaunch(url)) {
       await launch(url);
     } else {
@@ -155,7 +155,7 @@ class _AboutState extends State<About> {
                 Row(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: <Widget>[
-                    Text("Designed by"),
+                    Text("Designed by "),
                     Text(
                       "Büşra Reyhanlıoğlu",
                       style: TextStyle(fontWeight: FontWeight.bold),
