@@ -1,3 +1,5 @@
+<p align="center"><img height="125px" width="125px" src="assets/img/app_icon.png" alt="Kolonya"/></p>
+
 # Kolonya App
 
 Kolonya app provide you to receive reminder notifications about hand washing, phone cleaning, showering and house cleaning. 
