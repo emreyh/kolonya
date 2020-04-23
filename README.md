@@ -2,7 +2,7 @@
 
 # Kolonya App
 
-Kolonya app provide you to receive reminder notifications about hand washing, phone cleaning, showering and house cleaning. 
+Kolonya app provides you to receive reminder notifications about hand washing, phone cleaning, showering and house cleaning. 
 
 ## Screenshots
 
