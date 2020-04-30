@@ -65,7 +65,7 @@ class _WelcomePageState extends State<WelcomePage> {
                       ),
                     ),
                     Text(
-                      '#EvdeKal',
+                      'Hayat Eve Sığar',
                       style: TextStyle(
                         color: Colors.red,
                         fontSize: 20.0,

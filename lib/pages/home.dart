@@ -182,7 +182,7 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
         ),
       ],
       title: Text(
-        "#EvdeKal",
+        "Kolonya",
         style: TextStyle(
           color: Colors.white,
           fontSize: 25.0,

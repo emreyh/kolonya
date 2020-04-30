@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:hive/hive.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:provider/provider.dart';
@@ -27,7 +28,11 @@ void main() async {
   await Hive.openBox<NotificationModel>(BoxName.NOTIFICATION);
   await Hive.openBox<String>(BoxName.APP);
 
-  runApp(KolonyaApp());
+  SystemChrome.setPreferredOrientations([
+    DeviceOrientation.portraitUp,
+  ]).then((_) {
+    runApp(KolonyaApp());
+  });
 }
 
 class KolonyaApp extends StatelessWidget {
@@ -49,6 +54,7 @@ class KolonyaApp extends StatelessWidget {
         ),
       ],
       child: MaterialApp(
+        debugShowCheckedModeBanner: false,
         title: 'Kolonya',
         theme: ThemeUtil().light,
         initialRoute: WelcomePage.routeName,

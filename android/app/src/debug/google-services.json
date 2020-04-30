@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "62213796911",
-    "firebase_url": "https://kolonya-4765e.firebaseio.com",
-    "project_id": "kolonya-4765e",
-    "storage_bucket": "kolonya-4765e.appspot.com"
+    "project_number": "382995733715",
+    "firebase_url": "https://cologne-eb2fe.firebaseio.com",
+    "project_id": "cologne-eb2fe",
+    "storage_bucket": "cologne-eb2fe.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:62213796911:android:4b81401480fc1fced082da",
+        "mobilesdk_app_id": "1:382995733715:android:7c8669ef70e722c2090826",
         "android_client_info": {
-          "package_name": "com.emreyh.kolonya"
+          "package_name": "com.emreyh.cologne"
         }
       },
       "oauth_client": [
         {
-          "client_id": "62213796911-nrp1avrrocjtrj49op7u8llfl1l0mpac.apps.googleusercontent.com",
+          "client_id": "382995733715-r6q6jomlubnj7dsd8qq0glfc73o85vt5.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBv0ld5zcKq2dt0ra1t2c8AvpnQV2xhs9c"
+          "current_key": "AIzaSyCR4ox_dLl3mgHWF7FLZ5kdceIP4wiSLXo"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "62213796911-nrp1avrrocjtrj49op7u8llfl1l0mpac.apps.googleusercontent.com",
+              "client_id": "382995733715-r6q6jomlubnj7dsd8qq0glfc73o85vt5.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

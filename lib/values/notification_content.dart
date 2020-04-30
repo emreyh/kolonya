@@ -12,17 +12,17 @@ class NotificationContent {
 
   static const shower = NotificationContent(
       'Duş Zamanı!',
-      'Düzenli duş alarak virüslerden korunabilirsin. Bu gün duş aldın mı?',
+      'Bu gün duş aldın mı?',
       'Duş aldıysan bunu günlüğe kaydedelim mi?');
 
   static const cleanSmartphone = NotificationContent(
       'Telefonunu Dezenfekte Etme Zamanı!',
-      'Telefonunu dezenfekte etme zamanı geldi. Virüslerden korunmak için telefonunu temiz tut!',
+      'Telefonunu dezenfekte etme zamanı geldi. Telefonunu temiz tut!',
       'Telefonunu temizlediysen bunu günlüğe kaydedelim mi?');
 
   static const cleanHome = NotificationContent(
       'Ev Temizliği Zamanı!',
-      'Evini temiz tut, kapı kollarını ve ortak kullanım alanlarını dezenfekte et.',
+      'Evini temiz tut, kapı kollarını ve ortak kullanım alanlarını sürekli temizle.',
       'Evini temizlediysen bunu günlüğe kaydedelim mi?');
 
   static List<NotificationContent> get values =>
