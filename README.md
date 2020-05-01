@@ -10,9 +10,10 @@
 Kolonya app provides you to receive reminder notifications about hand washing, phone cleaning, showering and house cleaning. 
 
 # Download 
-Google Play Store Coming soon. Waiting approvment:)
-You can download latest .apk file from [here](https://github.com/emreyh/kolonya/releases).
 
+<a href='https://play.google.com/store/apps/details?id=com.emreyh.cologne&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+
+You can download latest .apk file from [here](https://github.com/emreyh/kolonya/releases).
 
 ## Screenshots
 <table>
