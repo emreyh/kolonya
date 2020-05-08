@@ -65,7 +65,7 @@ class HistoryState extends ChangeNotifier {
                 if (selectedCologne.frequancy == Frequancy.Weekly && currentDate.week == cleanDate.week) {
                   return true;
                 }
-                if (selectedCologne.frequancy == Frequancy.Daily && cleanDate.day == currentDate.day) {
+                if (selectedCologne.frequancy == Frequancy.Daily && cleanDate.dayOfYear == currentDate.dayOfYear) {
                   return true;
                 }
                 return false;
